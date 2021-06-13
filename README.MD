@@ -24,6 +24,11 @@ Kelas : 02PT4 Pemrograman Visual
 - Can Close your apps.
 - Can Search Data based on Categories.
 
+# Installation Required
+- Crystal Report
+- Visual Studio
+- Microsoft Access
+
 # Tutorial Videos
 <b><a href="https://www.youtube.com/channel/UCgobnmdXmbPy4cgqcBcoP2A">Channel : Irawan Irend</a></b>
 
