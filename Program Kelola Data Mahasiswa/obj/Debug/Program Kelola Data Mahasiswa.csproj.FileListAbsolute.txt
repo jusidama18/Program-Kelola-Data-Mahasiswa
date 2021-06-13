@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\bin\Debug\Program Kelola Data Mahasiswa.exe.config
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\bin\Debug\Program Kelola Data Mahasiswa.exe
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\bin\Debug\Program Kelola Data Mahasiswa.pdb
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program Kelola Data Mahasiswa.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program_Kelola_Data_Mahasiswa.FormMhs.resources
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program_Kelola_Data_Mahasiswa.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program Kelola Data Mahasiswa.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program Kelola Data Mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program Kelola Data Mahasiswa.exe
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program Kelola Data Mahasiswa.pdb
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\bin\Debug\Interop.Crystal.dll
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\bin\Debug\AxInterop.Crystal.dll
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Interop.Crystal.dll
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\AxInterop.Crystal.dll
+C:\Users\ASUS\source\repos\Program Kelola Data Mahasiswa\Program Kelola Data Mahasiswa\obj\Debug\Program Kelola Data Mahasiswa.csproj.ResolveComReference.cache
