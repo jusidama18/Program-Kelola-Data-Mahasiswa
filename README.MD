@@ -15,6 +15,15 @@ Kelas : 02PT4 Pemrograman Visual
 
 **If you find problem like this, install Program from [this url](https://www.microsoft.com/en-us/download/confirmation.aspx?id=13255) until finish. Resolved from [this question](https://stackoverflow.com/questions/6649363/microsoft-ace-oledb-12-0-provider-is-not-registered-on-the-local-machine).** 
 
+# Features supported:
+- Can Save Data to Database with OleDB.
+- Can Delete Data from Index.
+- Can Edit Data from apps directly.
+- Can Print with Crystal Report.
+- Can Cancel your process.
+- Can Close your apps.
+- Can Search Data based on Categories.
+
 # Tutorial Videos
 <b><a href="https://www.youtube.com/channel/UCgobnmdXmbPy4cgqcBcoP2A">Channel : Irawan Irend</a></b>
 
