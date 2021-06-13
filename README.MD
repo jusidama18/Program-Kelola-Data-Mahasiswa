@@ -1,5 +1,5 @@
 # Program Kelola Data Mahasiswa
-UTS Pemrograman Visual
+UTS Pemrograman Visual Mata Kuliah Pemrograman Visual
 
 # Data Diri
 Nama : Juan Simon Damanik
@@ -15,7 +15,7 @@ Kelas : 02PT4 Pemrograman Visual
 
 **If you find problem like this, install Program from [this url](https://www.microsoft.com/en-us/download/confirmation.aspx?id=13255) until finish. Resolved from [this question](https://stackoverflow.com/questions/6649363/microsoft-ace-oledb-12-0-provider-is-not-registered-on-the-local-machine).** 
 
-# Features supported:
+# Features Supported:
 - Can Save Data to Database with OleDB.
 - Can Delete Data from Index.
 - Can Edit Data from apps directly.
